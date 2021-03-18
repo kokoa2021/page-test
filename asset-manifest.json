@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/kokoa2021/page-test/static/css/main.4a26f5df.chunk.css",
+    "main.js": "/kokoa2021/page-test/static/js/main.def2af87.chunk.js",
+    "main.js.map": "/kokoa2021/page-test/static/js/main.def2af87.chunk.js.map",
+    "runtime-main.js": "/kokoa2021/page-test/static/js/runtime-main.f2ac13d1.js",
+    "runtime-main.js.map": "/kokoa2021/page-test/static/js/runtime-main.f2ac13d1.js.map",
+    "static/js/2.a32138ab.chunk.js": "/kokoa2021/page-test/static/js/2.a32138ab.chunk.js",
+    "static/js/2.a32138ab.chunk.js.map": "/kokoa2021/page-test/static/js/2.a32138ab.chunk.js.map",
+    "static/js/3.e22468e1.chunk.js": "/kokoa2021/page-test/static/js/3.e22468e1.chunk.js",
+    "static/js/3.e22468e1.chunk.js.map": "/kokoa2021/page-test/static/js/3.e22468e1.chunk.js.map",
+    "index.html": "/kokoa2021/page-test/index.html",
+    "static/css/main.4a26f5df.chunk.css.map": "/kokoa2021/page-test/static/css/main.4a26f5df.chunk.css.map",
+    "static/js/2.a32138ab.chunk.js.LICENSE.txt": "/kokoa2021/page-test/static/js/2.a32138ab.chunk.js.LICENSE.txt",
+    "static/media/member.css": "/kokoa2021/page-test/static/media/SCDream9.c8e7afd8.otf",
+    "static/media/logo.9f55cb9a.png": "/kokoa2021/page-test/static/media/logo.9f55cb9a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2ac13d1.js",
+    "static/js/2.a32138ab.chunk.js",
+    "static/css/main.4a26f5df.chunk.css",
+    "static/js/main.def2af87.chunk.js"
+  ]
+}
