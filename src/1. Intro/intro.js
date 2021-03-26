@@ -20,13 +20,13 @@ function Intro(){
                 <Fade right cascade>
                     <div className = "introText">
                         <Fade right cascade>
-                            <h1>안녕하세요</h1>
+                            <h1>HELLO</h1>
                         </Fade>
                         <Fade right cascade>
-                            <h1>저는</h1>
+                            <h1>WE ARE</h1>
                         </Fade>
                         <Fade right cascade>
-                            <h1>지영입니다!</h1>
+                            <h1>KOKOA TEAM!</h1>
                         </Fade>
                     </div>                
                 </Fade>
