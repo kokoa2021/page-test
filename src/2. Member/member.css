@@ -1,0 +1,74 @@
+@font-face {
+    font-family: '양진체';
+    src: url('https://cdn.jsdelivr.net/gh/supernovice-lab/font@0.9/yangjin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'sc1';
+    src: url("../fonts/SCDream1.otf") format('truetype');
+}
+@font-face {
+    font-family: 'sc3';
+    src: url("../fonts/SCDream3.otf") format('truetype');
+}
+@font-face {
+    font-family: 'sc5';
+    src: url("../fonts/SCDream7.otf") format('truetype');
+}
+@font-face {
+    font-family: 'sc5';
+    src: url("../fonts/SCDream7.otf") format('truetype');
+}
+@font-face {
+    font-family: 'sc9';
+    src: url("../fonts/SCDream9.otf") format('truetype');
+}
+.member{
+    padding-top: 40%;
+}
+.textStyle{
+    font-family: sc1;
+    /* background-color: rgb(247, 211, 211); */
+    color: rgb(95, 74, 74);
+    font-size: 5.5vw;
+    font-size: 5.5vh;
+}
+.textStyle1{
+    font-family: sc3;
+    /* background-color: rgb(247, 211, 211); */
+    color: rgb(95, 74, 74);
+    font-size: 2.5vw;
+    font-size: 2.5vh;
+}
+
+.memberPage{
+    display: flex;
+    flex-flow: column;
+    text-align: center;
+}
+
+.memberBox{
+    display: flex;
+    flex-flow: row;
+    text-align: center;
+
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.box{
+    background-color: rgba(255, 248, 220, 0);
+    height: 100vh;
+    width: 25%;
+    
+}
+.box:hover{
+    cursor: pointer;
+
+    background-color: #d4cbc2;
+    color: rgb(95, 74, 74);
+    font-family: sc3;
+    /* transform: scale(0.8); */
+    transition: 0.5s;
+}
